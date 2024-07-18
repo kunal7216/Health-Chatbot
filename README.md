@@ -1,6 +1,5 @@
 ## 🤖 HealthCare ChatBot
-Major -1 
-(4th year - 7th semester)
+
 
 Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician. 
 
@@ -54,8 +53,6 @@ Decision Tree is a Supervised learning technique that can be used for both class
 
 ## :suspect: Project Members
 
-- Anushka Bansal - 500067844 - R164218014
-- Shreya Sharma - 500068573 - R164218070
-- Silvi - 500069092 - R164218072
-- Ishika Agrawal - 500071154 - R164218097
+- Kunal Kumar
+
 
